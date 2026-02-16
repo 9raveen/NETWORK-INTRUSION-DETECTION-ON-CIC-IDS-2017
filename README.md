@@ -1,5 +1,5 @@
 # NETWORK-INTRUSION-DETECTION-ON-CIC-IDS-2017
-🔐 Network Intrusion Detection System using Machine Learning & Deep Learning
+Network Intrusion Detection System using Machine Learning & Deep Learning
 
 Dataset: CICIDS2017
 
