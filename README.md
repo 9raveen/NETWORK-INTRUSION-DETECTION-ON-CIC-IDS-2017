@@ -3,7 +3,7 @@ Network Intrusion Detection System using Machine Learning & Deep Learning
 
 Dataset: CICIDS2017
 
-📌 Project Overview
+📌 Project Overview 
 
 This project presents an end-to-end Network Intrusion Detection System (IDS) designed to identify and classify malicious network traffic in IoT and enterprise environments. Using the CICIDS2017 dataset, the system detects 15 traffic classes (1 benign + 14 attack types) through a combination of advanced feature selection, robust preprocessing, and comprehensive model evaluation.
 
